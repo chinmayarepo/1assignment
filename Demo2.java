@@ -4,5 +4,7 @@ class b
 {
 int sum;
 sum=a+b;
+  int c;
+  
 
 }
